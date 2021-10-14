@@ -7,5 +7,6 @@ The dataset is a raw data file provided directly from the Human Resource departm
 
 Microsoft Excel is used in the early stages for a quick glance of the dataset.
 
+Kindly refer to the presentation slides in PDF format.
 
 
